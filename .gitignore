@@ -1,0 +1,5 @@
+*.exe
+
+# files for VS Code build settings
+launch.json
+tasks.json
