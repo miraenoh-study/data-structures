@@ -27,7 +27,7 @@ def generate(size):
         # If the cell has been already filled, move down
         if square[new_row][new_col]:
             row = row + 1
-        else:S
+        else:
             # The cell is empty
             row = new_row
             col = new_col
